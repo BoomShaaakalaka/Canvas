@@ -1,0 +1,31 @@
+html{
+    font-family: 'Cormorant Garamond', 'EB Garamond', "游ゴシック体", YuGothic, "游ゴシック Medium", "Yu Gothic", "メイリオ" , Osaka, "ＭＳ Ｐゴシック", "MS PGothic", "Century Gothic", Arial, serif;
+}
+
+.text-lefttop{
+    text-align:left;
+    vertical-align:top;
+}
+.calendar{
+    margin:30px 30px;
+    max-width:560px;
+}
+.today{
+    background-color: #F1C5C5;
+}
+.relative{
+    position:relative;
+}
+.text-right{
+    position: absolute;
+    right: 0;
+}
+.text-left{
+    position: absolute;
+    left: 0;
+}
+td{
+    border: 1px solid #a9a9a9;
+    width:80px;
+    height:60px;
+}

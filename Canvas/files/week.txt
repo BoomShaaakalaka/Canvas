@@ -1,0 +1,4 @@
+This week we'll cover the following:
+1. Software design is the connecting work in the process of software development. It establishes the software design scheme according to the software requirements specification as the basis for the next program coding.
+2. Software design is where quality is formed in software development: design provides software representation that can be used for quality assessment.
+3. Software design is the only way to accurately translate requirements into complete software products or systems.
